@@ -4,10 +4,12 @@
 } */
 
 .menu-items,
-.banner-text {
+.banner-text,
+.products {
     font-family: 'Roboto', sans-serif;
 }
 
-.banner-text>h1 {
+.banner-text>h1,
+.casualProducts>h1 {
     font-family: 'Bebas Neue', cursive;
 }
