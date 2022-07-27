@@ -1,0 +1,13 @@
+/* body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+} */
+
+.menu-items,
+.banner-text {
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner-text>h1 {
+    font-family: 'Bebas Neue', cursive;
+}
